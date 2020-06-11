@@ -11,11 +11,11 @@ Atividade desenvolvida durante o curso da Udacity - Android Basics, concluído e
 <br>
 
 <p align="center">
-    <img src="IMG-7164.PNG" width="300" title="hover text"> <img src="IMG-7165.PNG" width="300" title="hover text">
+    <img src="IMG-7164.PNG" width="300" title="hover text"> <img src="IMG-7167.PNG" width="300" title="hover text">
 </p>
 
 <br>
 
 <p align="center">
-    <img src="IMG-7166.PNG" width="300" title="hover text"> <img src="IMG-7167.PNG" width="300" title="hover text">
+    <img src="IMG-7166.PNG" width="300" title="hover text"> <img src="IMG-7165.PNG" width="300" title="hover text">
 </p>
